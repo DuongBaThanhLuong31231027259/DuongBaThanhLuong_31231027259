@@ -1,7 +1,7 @@
 ﻿
 namespace DuongBaThanhLuong_31231027259
 {
-    internal class Section_02
+    internal class Session_02
     {
         public static void Main()
         {
