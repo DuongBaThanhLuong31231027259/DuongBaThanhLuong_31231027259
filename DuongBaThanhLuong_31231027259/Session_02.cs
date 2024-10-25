@@ -3,7 +3,7 @@ namespace DuongBaThanhLuong_31231027259
 {
     internal class Session_02
     {
-        public static void Main()
+        public static void Main1()
         {
             //Question_01();
             //Question_02();
@@ -21,7 +21,7 @@ namespace DuongBaThanhLuong_31231027259
             Console.ReadKey();
         }
         ///
-        /// . to Add / Sum Two Numbers
+        /// to Add / Sum Two Numbers
         ///
         public static void Question_01()
         {
@@ -36,7 +36,7 @@ namespace DuongBaThanhLuong_31231027259
 
         }
         /// <summary>
-        /// . to Swap Values of Two Variables
+        /// to Swap Values of Two Variables
         /// </summary>
         public static void Question_02()
         {
@@ -61,7 +61,7 @@ namespace DuongBaThanhLuong_31231027259
             Console.WriteLine($"Tong cua 2 so la = {a3} * {b3} = {Ket_qua} ");
         }
         /// <summary>
-        /// . to convert feet to meter
+        /// to convert feet to meter
         /// </summary>
         public static void Question_04()
         {
@@ -71,7 +71,7 @@ namespace DuongBaThanhLuong_31231027259
             Console.WriteLine("{0} feet = {1} met", feet, doi_ra_met);
         }
         /// <summary>
-        /// . to convert Celsius to Fahrenheit and vice versa
+        /// to convert Celsius to Fahrenheit and vice versa
         /// </summary>
         public static void Question_05()
         {
@@ -97,7 +97,7 @@ namespace DuongBaThanhLuong_31231027259
             Console.WriteLine("Size of short: " + sizeof(short));
         }
         /// <summary>
-        /// . to Print ASCII Value (tip: read character, print number of this char)
+        /// to Print ASCII Value (tip: read character, print number of this char)
         /// </summary>
         public static void Question_07()
         {
@@ -107,7 +107,7 @@ namespace DuongBaThanhLuong_31231027259
             Console.WriteLine("ASCII value: " + ASCII);
         }
         /// <summary>
-        /// . to Calculate Area of Circle
+        /// to Calculate Area of Circle
         /// </summary>
         public static void Question_08()
         {
