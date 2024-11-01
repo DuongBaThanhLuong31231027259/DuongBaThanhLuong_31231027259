@@ -10,7 +10,7 @@ namespace DuongBaThanhLuong_31231027259
 {
     internal class Session_04
     {
-        public static void Main()
+        public static void Main3()
         {
             //Exercise01();
             //Exercise02();
