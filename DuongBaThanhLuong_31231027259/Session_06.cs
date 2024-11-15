@@ -11,7 +11,7 @@ namespace DuongBaThanhLuong_31231027259
 {
     internal class Session_06
     {
-        static void Main()
+        static void Main5()
         {
             //Exercise01();
             Exercise02();
