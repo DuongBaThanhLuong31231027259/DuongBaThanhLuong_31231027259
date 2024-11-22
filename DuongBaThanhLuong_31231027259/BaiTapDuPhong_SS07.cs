@@ -8,7 +8,7 @@ namespace DuongBaThanhLuong_31231027259
 {
     internal class BaiTapDuPhong_SS07
     {
-        static void Main()
+        static void Main10()
         {
             int n;
             Console.Write("Enter the number of rows: ");
